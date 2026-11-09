@@ -98,7 +98,7 @@ Godot 4.x バージョン・レンダラー・OS・エクスポートテンプ�
 
 ## ライセンス
 
-MIT（`LICENSE.txt` 参照）。アドオン自体にフォントは必要ありません --
+MIT（`LICENSE` 参照）。アドオン自体にフォントは必要ありません --
 お好きな日本語フォント（例: Noto Serif JP / Noto Sans JP）を `font` に
-割り当ててください。full 版（Tategaki for Godot 4）は別のライセンスで
+割り当ててください。デモにはそのまま表示できるよう Noto Serif JP（SIL OFL 1.1）を同梱しています（`NOTICE.md` 参照）。full 版（Tategaki for Godot 4）は別のライセンスで
 個別に販売されています。

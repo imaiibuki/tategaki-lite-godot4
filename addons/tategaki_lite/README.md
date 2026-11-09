@@ -100,6 +100,6 @@ renderer, OS, or export template (mobile/web) has been verified for Lite.
 
 ## License
 
-MIT (see `LICENSE.txt`). No font is required by the addon -- assign your
+MIT (see `LICENSE`). No font is required by the addon -- assign your
 own Japanese font (e.g. Noto Serif JP / Noto Sans JP) via `font`. The full
 version (Tategaki for Godot 4) is sold separately under its own license.
