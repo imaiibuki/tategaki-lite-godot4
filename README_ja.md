@@ -3,6 +3,8 @@
 [Tategaki -- Vertical Japanese Text for Godot 4](https://ibuking289.itch.io/tategaki-godot4)（$4）の無料
 Lite 版です。完全版はブラウザで試せます: [無料の Web デモ](https://ibuking289.itch.io/japanese-text-godot-demo)。
 
+仕組みの解説（Zenn）: [Godot 4 で日本語の縦書きを表示する（TextServerの縦書きは実は動く）](https://zenn.dev/ibuking289/articles/godot4-tategaki-textserver)。
+
 `Control` ノード（`TategakiLabelLite`）で縦書き（tategaki）レイアウトを
 描画します: 右から左への列、上から下への字、`\n` による明示的な改列、
 フォントの OpenType `vert`/`vrt2` 機能による正しい縦書き用の句読点・括弧・
