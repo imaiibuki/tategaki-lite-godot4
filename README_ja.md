@@ -25,7 +25,8 @@ Lite 版です。完全版はブラウザで試せます: [無料の Web デモ]
 
 ## 導入方法
 
-1. `addons/tategaki_lite/` をプロジェクトの `addons/` フォルダにコピー。
+1. `addons/tategaki_lite/` をプロジェクトの `addons/` フォルダにコピー
+   （または [Releases](https://github.com/imaiibuki/tategaki-lite-godot4/releases/latest) の `tategaki_lite_v1.0.0.zip` をプロジェクトのフォルダに展開）。
 2. プロジェクト設定 > プラグイン で「Tategaki Lite」を有効化（任意 --
    `TategakiLabelLite` は `class_name` により、プラグインを有効にしなくても
    そのまま使えます。有効化すると「ノードを作成」ダイアログに

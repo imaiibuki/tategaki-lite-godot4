@@ -28,7 +28,9 @@ forms for punctuation/brackets/small kana (via the font's OpenType
 
 ## Install
 
-1. Copy `addons/tategaki_lite/` into your project's `addons/` folder.
+1. Copy `addons/tategaki_lite/` into your project's `addons/` folder
+   (or download `tategaki_lite_v1.0.0.zip` from [Releases](https://github.com/imaiibuki/tategaki-lite-godot4/releases/latest) and extract
+   it into your project folder).
 2. Project Settings > Plugins > enable "Tategaki Lite" (optional --
    `TategakiLabelLite` works immediately via `class_name` even with the
    plugin disabled; enabling it just adds a `TategakiLabelLite` icon/
