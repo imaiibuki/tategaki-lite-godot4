@@ -64,7 +64,7 @@ Method: `get_columns_used() -> int`.
 | Vertical punctuation via font `vert`/`vrt2` | Yes | Yes |
 | Automatic column wrapping | Yes | Yes |
 | Basic properties (font/font_size/char_spacing/line_spacing/color) | Yes | Yes |
-| Kinsoku (line-head burasage/oidashi, line-end) | No | Yes |
+| Kinsoku (line-head burasage/oikomi, line-end) | No | Yes |
 | Half-width Latin/digit rotation | No | Yes |
 | `[tcy]..[/tcy]` tate-chu-yoko | No | Yes |
 | Ruby (furigana) / emphasis dots (bouten) | No | Yes |
